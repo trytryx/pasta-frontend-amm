@@ -635,8 +635,8 @@
       "decimals": 18
     },
     {
-      "name": "Pasta",
-      "symbol": "PASTA",
+      "name": "EpicSwap",
+      "symbol": "EPIC",
       "address": "0xAB9D0Fae6eB062F2698C2D429a1BE9185A5D4F6E",
       "chainId": 56,
       "decimals": 18
