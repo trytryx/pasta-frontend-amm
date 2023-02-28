@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.pastafinance.com/'
+    href: 'https://www.epicswap.app/'
   },
   {
     label: 'Trade',
@@ -24,12 +24,17 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.pastafinance.com/farms'
+    href: 'https://www.epicswap.app/farms'
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://www.pastafinance.com/pools'
+    href: 'https://www.epicswap.app/pools'
+  },
+  {
+    label: 'EpicNetworkApp',
+    icon: 'MoreIcon',
+    href: 'https://play.google.com/store/apps/details?id=com.epicchain.epicnetwork&hl=en_US&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Depic+network+google+play&pcampaignid=APPU_1_rAP-Y9P7GZ-Mxc8P3ZGN6AQ'
   },
   // {
   //   label: 'Lottery',
@@ -56,7 +61,7 @@ const config: MenuEntry[] = [
       // },
       {
         label: "Github",
-        href: "https://github.com/pastafinance/",
+        href: "https://github.com/epicnetworkapp/",
       },
     ],
   }
